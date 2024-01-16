@@ -1,1 +1,8 @@
 cover.pdf
+
+*.vscode
+*.pyc
+*.egg-info
+*.egg
+*.egg-link
+*.egg-info
